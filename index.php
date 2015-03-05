@@ -30,4 +30,5 @@ $hw->sayWord();
 $hw->showInfo();
 
 echo 'eeee';die;
+echo 'wwww';
 ?>
