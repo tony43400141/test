@@ -29,6 +29,5 @@ $hw->sayHello();
 $hw->sayWord();
 $hw->showInfo();
 
-
-echo 'new test---fix bug';
+echo 'eeee';die;
 ?>
