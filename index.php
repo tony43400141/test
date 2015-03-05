@@ -28,5 +28,7 @@ $hw = new HelloWord();
 $hw->sayHello();
 $hw->sayWord();
 $hw->showInfo();
-?>
 
+
+echo 'new test---fix bug';
+?>
