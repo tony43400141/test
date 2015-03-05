@@ -30,5 +30,5 @@ $hw->sayWord();
 $hw->showInfo();
 
 
-echo 'new test';
+echo 'new test---fix bug';
 ?>
