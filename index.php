@@ -22,6 +22,7 @@ class HelloWord
 	{
 		echo '!';
 		echo 'dsdsd';
+		echo 'haha my test success';
 	}
 }
 
