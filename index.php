@@ -21,6 +21,8 @@ class HelloWord
 	public function showInfo()
 	{
 		echo '!';
+		echo 'dsdsd';
+		echo 'haha my test success';
 	}
 }
 
