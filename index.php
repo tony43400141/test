@@ -21,6 +21,7 @@ class HelloWord
 	public function showInfo()
 	{
 		echo '!';
+		echo 'dsdsd';
 	}
 }
 
