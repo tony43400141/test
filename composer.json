@@ -1,0 +1,7 @@
+{
+    "name": "test/test",
+    "description": "php test code",
+    "require": {
+        "yiisoft/yii2-redis":"*"
+    }
+}
