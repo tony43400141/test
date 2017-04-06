@@ -7,6 +7,6 @@
     "license": "MIT",
     "require": {
         "php": ">=5.3.0",
-        "yiisoft/yii2-redis":"*"      
+        "elasticsearch/elasticsearch": "~5.0"      
     }
 }
