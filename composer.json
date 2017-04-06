@@ -1,7 +1,12 @@
 {
-    "name": "test/test",
-    "description": "php test code",
+    "name": "tony/phptest",
+    "type": "library",
+    "description": "test for PHP 5.3",
+    "keywords": ["test","logging"],
+    "homepage": "https://github.com/tony43400141/test",
+    "license": "MIT",
     "require": {
-        "yiisoft/yii2-redis":"*"
-    }
+        "php": ">=5.3.0",
+        "yiisoft/yii2-redis":"*"      
+    },
 }
